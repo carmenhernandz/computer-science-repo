@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debugging Coach"
+  short_description: "Diagnose errors through a guided process"
+  default_prompt: "Use $debugging-coach to help me diagnose this error step by step."

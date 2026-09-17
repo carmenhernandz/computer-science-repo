@@ -1,0 +1,4 @@
+interface:
+  display_name: "Solution Reviewer"
+  short_description: "Review student code without replacing it"
+  default_prompt: "Use $solution-reviewer to review my solution and identify the first important improvement."

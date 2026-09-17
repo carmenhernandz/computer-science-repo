@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Tutor"
+  short_description: "Guide learning through progressive questions"
+  default_prompt: "Use $socratic-tutor to help me reason through this exercise without giving me the full solution."
